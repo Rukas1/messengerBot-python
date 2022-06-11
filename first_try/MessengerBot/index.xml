@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<cours nb_cours="1">
+    <!-- ceci est un commentaire ! -->
+    <lesson>
+        <h1>Le phylosophe, scientifique,... Pierre-Simon de Laplace</h1>
+        <p>
+        Pierre-Simon de Laplace aussi connue sous le nom de Laplace directement est un philosophe, 
+        mathématicien,... français de XIXeme siècle. Il a surtout était connue pour son oeuvre: 
+        "Essai philosophique sur les probabilités" dans laquel il enonce son expression
+        du determinisme dur.
+        </p>
+
+        <p>
+        Laplace indique:
+        "Une intelligence, qui a un instant donné contrait toute les forces [...]"
+        </p>
+    </lesson>
+</cours>
+
